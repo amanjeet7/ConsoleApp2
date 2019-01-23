@@ -19,4 +19,9 @@ namespace ConsoleApp2
             Console.WriteLine("sum is {0}", sum);
         }
     }
+
+    class tcecream
+    {
+
+    }
 }
